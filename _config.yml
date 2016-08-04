@@ -6,9 +6,10 @@ color:
   saturation: 0.9845708624925464
   rhythmicContrast: 0.6070533636957407
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
 name: christerberg
+title: ChristerBerg
